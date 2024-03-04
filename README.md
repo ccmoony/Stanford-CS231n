@@ -1,3 +1,2 @@
-# cs231n_assignment
-Assignments of stanford cs231n CV course.
-(AI小白的CV入门课，仅靠大家参考，欢迎提issue交流)
+# Stanford CS231n(CNN for Visual Recognition)
+Assignments of CS231n Stanford University.
